@@ -314,14 +314,17 @@ namespace Chess
                     }
                 } else if (enemy.PieceType == PieceType.Queen || enemy.PieceType == PieceType.Rook || enemy.PieceType == PieceType.Bishop)
                 {
+                    BitArray[] diagonalMoves = enemy.PieceType == PieceType.Queen || enemy.PieceType == PieceType.Bishop ? Helpers.diagonalLinesFromPoint(enemy.CurrPos, pieces, !WhiteTurn) : Helpers.initArray();
+                    BitArray[] verticleHorizontalMoves = enemy.PieceType == PieceType.Queen || enemy.PieceType == PieceType.Rook ? Helpers.horizontalVerticleLinesFromPoint(enemy.CurrPos, pieces, !WhiteTurn) : Helpers.initArray();
+
                     for (int i = 0; i < 8; i++)
                     {
                         for (int j = 0; j < 8; j++)
                         {
-                            bool diagonalCheck = fromKingDiagonal[j][i] == true && enemy.movesAvailable[j][i] == true && pieces[i, j] != null
+                            bool diagonalCheck = fromKingDiagonal[j][i] == true && diagonalMoves[j][i] == true && pieces[i, j] != null
                                 && lieOnSameDiagonal(kingPos, enemy.CurrPos);
                             
-                            bool verticleCheck = fromKingVertical[j][i] == true && enemy.movesAvailable[j][i] == true && pieces[i, j] != null
+                            bool verticleCheck = fromKingVertical[j][i] == true && verticleHorizontalMoves[j][i] == true && pieces[i, j] != null
                                 && ((enemy.CurrPos.X == kingPos.X) || (enemy.CurrPos.Y == kingPos.Y));
 
                             if (diagonalCheck || verticleCheck)
