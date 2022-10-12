@@ -1,0 +1,31 @@
+C:\Users\bahoz\source\repos\Chess\Chess\bin\Debug\net6.0-windows\Chess.exe
+C:\Users\bahoz\source\repos\Chess\Chess\bin\Debug\net6.0-windows\Chess.deps.json
+C:\Users\bahoz\source\repos\Chess\Chess\bin\Debug\net6.0-windows\Chess.runtimeconfig.json
+C:\Users\bahoz\source\repos\Chess\Chess\bin\Debug\net6.0-windows\Chess.dll
+C:\Users\bahoz\source\repos\Chess\Chess\bin\Debug\net6.0-windows\Chess.pdb
+C:\Users\bahoz\source\repos\Chess\Chess\obj\Debug\net6.0-windows\Chess.csproj.AssemblyReference.cache
+C:\Users\bahoz\source\repos\Chess\Chess\obj\Debug\net6.0-windows\Chess.Properties.Resources.resources
+C:\Users\bahoz\source\repos\Chess\Chess\obj\Debug\net6.0-windows\Chess.csproj.GenerateResource.cache
+C:\Users\bahoz\source\repos\Chess\Chess\obj\Debug\net6.0-windows\Chess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bahoz\source\repos\Chess\Chess\obj\Debug\net6.0-windows\Chess.AssemblyInfoInputs.cache
+C:\Users\bahoz\source\repos\Chess\Chess\obj\Debug\net6.0-windows\Chess.AssemblyInfo.cs
+C:\Users\bahoz\source\repos\Chess\Chess\obj\Debug\net6.0-windows\Chess.csproj.CoreCompileInputs.cache
+C:\Users\bahoz\source\repos\Chess\Chess\obj\Debug\net6.0-windows\Chess.dll
+C:\Users\bahoz\source\repos\Chess\Chess\obj\Debug\net6.0-windows\refint\Chess.dll
+C:\Users\bahoz\source\repos\Chess\Chess\obj\Debug\net6.0-windows\Chess.pdb
+C:\Users\bahoz\source\repos\Chess\Chess\obj\Debug\net6.0-windows\Chess.genruntimeconfig.cache
+C:\Users\bahoz\source\repos\Chess\Chess\obj\Debug\net6.0-windows\ref\Chess.dll
+C:\Users\bahoz\source\repos\Chess\Chess\obj\Debug\net6.0-windows\Chess.ChessForm.resources
+C:\Users\bahoz\source\repos\Chess\Chess\bin\Debug\net6.0-windows\Resources\Black Bishop.png
+C:\Users\bahoz\source\repos\Chess\Chess\bin\Debug\net6.0-windows\Resources\Black King.png
+C:\Users\bahoz\source\repos\Chess\Chess\bin\Debug\net6.0-windows\Resources\Black Knight.png
+C:\Users\bahoz\source\repos\Chess\Chess\bin\Debug\net6.0-windows\Resources\Black Pawn.png
+C:\Users\bahoz\source\repos\Chess\Chess\bin\Debug\net6.0-windows\Resources\Black Queen.png
+C:\Users\bahoz\source\repos\Chess\Chess\bin\Debug\net6.0-windows\Resources\Black Rook.png
+C:\Users\bahoz\source\repos\Chess\Chess\bin\Debug\net6.0-windows\Resources\White Bishop.png
+C:\Users\bahoz\source\repos\Chess\Chess\bin\Debug\net6.0-windows\Resources\White King.png
+C:\Users\bahoz\source\repos\Chess\Chess\bin\Debug\net6.0-windows\Resources\White Knight.png
+C:\Users\bahoz\source\repos\Chess\Chess\bin\Debug\net6.0-windows\Resources\White Pawn.png
+C:\Users\bahoz\source\repos\Chess\Chess\bin\Debug\net6.0-windows\Resources\White Queen.png
+C:\Users\bahoz\source\repos\Chess\Chess\bin\Debug\net6.0-windows\Resources\White Rook.png
+C:\Users\bahoz\source\repos\Chess\Chess\obj\Debug\net6.0-windows\Chess.PawnPromoteForm.resources
